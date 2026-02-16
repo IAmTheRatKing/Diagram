@@ -1,0 +1,69 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#StronaGlowna{
+    background-color: rgb(160, 194, 228);
+}
+#Kontakt{
+    background-color: rgb(122, 168, 101);
+}
+#Galeria{
+    background-color: rgb(235, 151, 151);
+}
+
+#logoimg{
+    height: 150px;
+    width: 170px;
+    border-radius: 20px;
+    border: solid rgb(77, 115, 202);
+    float: left;
+}
+
+.navbar{
+    background-color: rgb(108, 148, 240);
+    padding: 10px;
+    border: solid rgb(77, 115, 202);
+    border-radius: 20px;
+    display: inline-block;
+    width: 700px;
+    float: right;
+}
+.lista1{
+    list-style: none;
+    display: inline-flex;
+    float: right;
+    color: white;
+}
+#Stg{
+    background-color: rgb(160, 194, 228);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    border: solid rgb(77, 115, 202);
+    border-radius: 20px;
+    margin-right: 5px;
+}
+#kon{
+    background-color: rgb(122, 168, 101);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    border: solid rgb(69, 129, 39);
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#ga{
+    background-color: rgb(235, 151, 151);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    border: solid rgb(202, 77, 77);
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
