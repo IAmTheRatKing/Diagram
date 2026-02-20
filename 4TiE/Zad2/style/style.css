@@ -158,24 +158,44 @@ header,h1,h3{
     background-color: rgb(69, 129, 39);
     border: solid rgb(38, 86, 14);
     border-radius: 20px;
+    padding: 21px;
+    margin: 10px;
 }
 #sect3k{
     background-color: rgb(69, 129, 39);
     border: solid rgb(38, 86, 14);
     border-radius: 20px;
-}
-#napisprzygooglemaps{
-    float: right;
-}
-#zdjecia2{
-    width: 200px;
     height: 200px;
-    margin: 2.5%;
+    padding: 21px;
+    margin: 10px;
+}
+#mapa{
+    height: 100px;
+    width: 400px;
+    background-color: lightgreen;
+    padding-top: 80px;
+    text-align: center;
+    float: left;
     border: solid rgb(38, 86, 14);
     border-radius: 20px;
+    margin: 8px;
+}
+#mapalink{
+    color: rgb(38, 86, 14);
+}
+#mapalink:hover{
+    color: white;
+    font-size: large;
+    transition: 0.5s;
+}
+
+#zdjecia2{
+    height: 200px;
+    border: solid rgb(38, 86, 14);
+    border-radius: 20px;
+    margin: auto;
 }
 #zdjecia2:hover{
-    width: 210px;
     height: 210px;
     border: solid white;
     transition: 0.5s;
